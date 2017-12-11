@@ -1,0 +1,117 @@
+1512874838253	geckodriver	INFO	geckodriver 0.19.1
+1512874838260	geckodriver	INFO	Listening on 127.0.0.1:52299
+1512874840381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Via\\AppData\\Local\\Temp\\rust_mozprofile.G9F2dEmG4Ail"
+1512874840845	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512874842220	Marionette	INFO	Listening on port 52310
+1512874842424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512874842510	Marionette	DEBUG	Register listener.js for window 4294967297
+1512874849393	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512874851681	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512874851685	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512874851685	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512874851754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=http%3A//https//www.amazon.com/ap/signin%3F_encoding%3DUTF8%26ignoreAuthState%3D1%26openid.assoc_handle%3Dusflex%26openid.claimed_id%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26openid.identity%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.ns.pape%3Dhttp%253A%252F%252Fspecs.openid.net%252Fextensions%252Fpape%252F1.0%26openid.pape.max_auth_age%3D0%26openid.return_to%3Dhttps%253A%252F%252Fwww.amazon.com%252F%253Fref_%253Dnav_signin%26switch_account%3D&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20https."
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Child 216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+1512875309298	geckodriver	INFO	geckodriver 0.19.1
+1512875309298	geckodriver	INFO	Listening on 127.0.0.1:53089
+1512875311413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Via\\AppData\\Local\\Temp\\rust_mozprofile.HWZxi4Z3JjO9"
+1512875311796	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512875312963	Marionette	INFO	Listening on port 53099
+1512875312985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512875313051	Marionette	DEBUG	Register listener.js for window 4294967297
+1512875315267	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512875315557	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512875315557	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512875315885	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/ap/signin?_encoding=UTF8&ignoreAuthState=1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&switch_account="
+1512875316294	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/ap/signin?_encoding=UTF8&ignoreAuthState=1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&switch_account="
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+1512875342805	geckodriver	INFO	geckodriver 0.19.1
+1512875342823	geckodriver	INFO	Listening on 127.0.0.1:53188
+1512875344948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Via\\AppData\\Local\\Temp\\rust_mozprofile.PGDf2X8SxVmg"
+1512875345495	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512875346595	Marionette	INFO	Listening on port 53199
+1512875346974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512875347048	Marionette	DEBUG	Register listener.js for window 4294967297
+1512875348656	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512875349209	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512875349209	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512875349485	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/ap/signin?_encoding=UTF8&ignoreAuthState=1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&switch_account="
+1512875350106	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/ap/signin?_encoding=UTF8&ignoreAuthState=1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&switch_account="
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512878316060	geckodriver	INFO	geckodriver 0.19.1
+1512878316060	geckodriver	INFO	Listening on 127.0.0.1:57385
+1512878318147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Via\\AppData\\Local\\Temp\\rust_mozprofile.m9C21aK59x87"
+1512878318721	Marionette	INFO	Enabled via --marionette
+1512878319908	Marionette	INFO	Listening on port 57395
+1512878320192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512878320240	Marionette	DEBUG	Register listener.js for window 4294967297
+1512878320259	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512878320483	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512878320484	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512878320976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/ap/signin?_encoding=UTF8&ignoreAuthState=1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&switch_account="
+1512878321363	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/ap/signin?_encoding=UTF8&ignoreAuthState=1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&switch_account="
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512879096917	geckodriver	INFO	geckodriver 0.19.1
+1512879096933	geckodriver	INFO	Listening on 127.0.0.1:58514
+1512879099027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Via\\AppData\\Local\\Temp\\rust_mozprofile.wFiP9LnEjunV"
+1512879099405	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512879100491	Marionette	INFO	Listening on port 58524
+1512879100568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512879100627	Marionette	DEBUG	Register listener.js for window 4294967297
+1512879100662	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512879101296	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512879101296	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512879101727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/ap/signin?_encoding=UTF8&ignoreAuthState=1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&switch_account="
+1512879102580	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/ap/signin?_encoding=UTF8&ignoreAuthState=1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&switch_account="
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Via\AppData\Local\openvr\openvrpaths.vrpath
