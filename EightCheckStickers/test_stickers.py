@@ -13,11 +13,9 @@ def driver(request):
 
 def test_stickers(driver):
     driver.get("http://localhost/litecart")
-    list_stickers = driver.find_elements_by_css_selector("div.image-wrapper")
+    list_stickers = driver.find_elements_by_css_selector("li.product.column.shadow.hover-light")
     for i in range(len(list_stickers)):
-        sticker = list_stickers[i].find_elements_by_css_selector("div")
-        if len(sticker) == 0:
-            print("позиция ",i, "без стикера" )
-        elif len(sticker) > 1:
-            print("в позиции ",i, "несколько стикеров" )
+        sticker = list_stickers[i].find_elements_by_css_selector("div.sticker")
+        assert(len(sticker) == 1)
+
 
