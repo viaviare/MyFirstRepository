@@ -6,6 +6,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.select import Select
+import random
 
 @pytest.fixture
 def driver(request):
@@ -20,9 +21,13 @@ def test_launch_query(driver):
     #--------------------------
     link_reg = driver.find_element_by_css_selector("form[name=login_form] tbody a")
     link_reg.click()
+    #----------------
+    w = random.randint(1,150)
+    email_a = "Popins.Mari" + str(w) + "@gmail.com"
+    driver.find_element_by_css_selector("input[name=email]").send_keys(email_a)
+    #----------------
     driver.find_element_by_css_selector("input[name=firstname]").send_keys("Maria_Merobella")
     driver.find_element_by_css_selector("input[name=lastname]").send_keys("Popins")
-    driver.find_element_by_css_selector("input[name=email]").send_keys("Popins.Mari@gmail.com")
     driver.find_element_by_css_selector("input[name=postcode]").send_keys("98712")
     driver.find_element_by_css_selector("input[name=address1]").send_keys("6 Christian St, Rehoboth Beach")
     driver.find_element_by_css_selector("input[name=city]").send_keys("Rehoboth Beach")
